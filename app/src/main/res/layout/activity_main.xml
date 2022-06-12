@@ -34,13 +34,13 @@
             android:layout_weight="1"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="Name" />
+            android:text="Katakan sesuatu!" />
 
         <Button
             android:id="@+id/button"
             android:layout_width="50dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Button" />
+            android:text="Send" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
